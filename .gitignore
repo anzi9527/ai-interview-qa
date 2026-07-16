@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+output/questions/
+output/index.json
+output/generation_state.json
+_detect_key.py
+_dump_providers.py
+_find_key*.py
+_dump_auth.py
+_check_key.py
