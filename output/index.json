@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question_no": 1,
+      "title": "Precision 混合精度训练（FP16/BF16/INT8）",
+      "category": "ai_ml",
+      "difficulty": "中级",
+      "date": "2026-07-17",
+      "file": "questions\\20260717_001_ai_ml_Precision_混合精度训练FP16BF16INT.md"
+    },
+    {
+      "question_no": 2,
+      "title": "小型搜索引擎设计（倒排索引）",
+      "category": "system_design",
+      "difficulty": "中级",
+      "date": "2026-07-17",
+      "file": "questions\\20260717_002_system_design_小型搜索引擎设计倒排索引.md"
+    }
+  ],
+  "total": 2,
+  "by_category": {
+    "ai_ml": 1,
+    "system_design": 1
+  },
+  "by_difficulty": {
+    "中级": 2
+  },
+  "last_updated": "2026-07-17T00:28:55.170990"
+}
